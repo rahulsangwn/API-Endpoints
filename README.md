@@ -6,5 +6,5 @@
 -> Bcrypt is used for hashing of passwords.\
 -> PassportJS to setup local authentication.\
 -> uid in database schema has AUTO_INCREMENT feature.\
--> User Profile data is show in JSON.\
+-> User Profile data is show in JSON.
 
